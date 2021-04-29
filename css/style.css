@@ -36,7 +36,7 @@ nav li, #footer-links li{
 }
 /* CORPS DU SITE */
 body{
-    background-color: rgb(121, 95, 61);
+    background-color: rgb(95, 75, 48);
 
 }
 /* TITRE DU SITE */
@@ -44,7 +44,7 @@ h1{
   font-family: 'Kaushan Script', cursive;
   font-family: 'Manrope', sans-serif;
   margin-top: 70px;
-  color: rgb(168, 103, 101);
+  color: rgb(9, 5, 4);
   font-size: 50px;
 }
 span{
