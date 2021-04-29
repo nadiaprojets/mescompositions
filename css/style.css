@@ -5,7 +5,7 @@ html, body{
 }
 /* EN TÊTE */
 header{
-  background-color: rgb(9, 5, 4);
+  background-color: rgb(41, 32, 20);
   padding: 40px;
   color: rgb(191, 123, 120);
   margin-bottom: 30px;
@@ -16,7 +16,7 @@ nav{
   padding-top: 40px;
 }
 nav li a{
-  color: rgb(191, 123, 120);
+  color: rgb(95, 75, 48);
   text-decoration: none;
 }
 nav li a:hover{
@@ -94,13 +94,16 @@ select{
   margin-top: 30px;
 }
 /*FIN DU FORMULAIRE DE CONTACT */
+
+
+/*FOOTER */
 footer{
   border-top: 1px solid rgb(117, 66, 63);
   padding: 50px 30px;
   color: rgb(228, 158, 154);
   font-size: .8em;
   margin-top: 30px;
-  background-color: rgb(44, 4, 2);
+  background-color: rgb(41, 32, 20);
 }
 footer #footer-links{
   float: center;
@@ -111,12 +114,14 @@ footer #footer-links p{
   padding-right: 5px;
 }
 footer #footer-links a{
-  color: rgb(191, 123, 120);
+  color: rgb(95, 75, 48);
   text-decoration: none;
 }
 footer #footer-links a:hover{
   color: rgb(255, 177, 173);
 }
+
+
 #section{
   text-align: center;
 }
