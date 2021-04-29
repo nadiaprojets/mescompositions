@@ -20,7 +20,7 @@ nav li a{
   text-decoration: none;
 }
 nav li a:hover{
-  color: rgb(228, 154, 150);
+  color: rgb(179, 143, 93);
 }
 nav #active a{
   color: rgb(255, 206, 204);
@@ -89,7 +89,7 @@ select{
 }
 .container3 {
   border-radius: 6px;
-  background-color: rgb(122, 67, 64);
+  background-color: rgb(179, 143, 93);
   padding: 20px;
   margin-top: 30px;
 }
